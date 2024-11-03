@@ -1,0 +1,32 @@
+1. Apa itu FedoraLinux?
+Fedora adalah distribusi sistem operasi berbasis Linux yang dikenal karena sifatnya yang inovatif dan fokus pada teknologi terbaru. Fedora didukung oleh komunitas dan juga oleh Red Hat, sebuah perusahaan yang terkenal dalam dunia Linux dan open-source. Fedora bertujuan untuk menjadi platform yang ramah bagi pengembang dan pengguna, dengan menyediakan perangkat lunak terbaru, fitur-fitur baru, dan dukungan untuk perangkat keras modern.
+
+Fedora memiliki beberapa keunggulan, antara lain:
+
+    Rilis yang Cepat: Fedora merilis versi baru setiap enam bulan, yang memungkinkan pengguna untuk selalu mendapatkan fitur terbaru dan pembaruan keamanan.
+    Komunitas Aktif: Terdapat komunitas besar di sekitar Fedora yang membantu dalam pengembangan dan memberikan dukungan kepada pengguna.
+    Ketersediaan Beragam Varian: Fedora menawarkan beberapa varian seperti Fedora Workstation (untuk pengembang), Fedora Server (untuk server), dan Fedora IoT (untuk perangkat IoT), sehingga dapat digunakan di berbagai lingkungan.
+
+2. Sejarah Linux Fedora
+
+    Awal Mula (1995-2003):
+        Fedora dimulai sebagai proyek Fedora Core yang diluncurkan pada tahun 2003 oleh Red Hat, setelah mereka memutuskan untuk berfokus pada solusi enterprise melalui Red Hat Enterprise Linux (RHEL).
+        Fedora Core menjadi platform pengembangan yang memungkinkan pengguna untuk mencoba fitur-fitur baru sebelum dimasukkan ke RHEL.
+
+    Pengembangan Terus Menerus (2003-2010):
+        Sejak rilis pertama Fedora Core 1 pada November 2003, proyek ini terus berkembang dan mengalami berbagai pembaruan dan perbaikan.
+        Fedora Core 6, rilis yang diluncurkan pada tahun 2006, merupakan salah satu versi yang terkenal karena stabilitas dan dukungannya terhadap perangkat keras.
+
+    Perubahan Nama dan Struktur (2007):
+        Pada tahun 2007, Fedora Core diubah namanya menjadi Fedora untuk mencerminkan pendekatan yang lebih menyeluruh terhadap pengembangan distribusi Linux.
+        Fedora juga mengadopsi siklus rilis yang lebih teratur dan memberikan pengguna akses ke berbagai perangkat lunak dan teknologi terbaru.
+
+    Kolaborasi dan Inovasi (2010-sekarang):
+        Fedora terus berkolaborasi dengan komunitas open-source dan mendukung pengembangan berbagai proyek perangkat lunak.
+        Fedora juga dikenal karena inovasinya dalam teknologi, seperti pengenalan sistem manajemen paket DNF menggantikan YUM dan adopsi Wayland sebagai server tampilan default.
+
+    Fedora 34 (2021):
+        Fedora 34 dirilis pada April 2021, membawa peningkatan performa dan berbagai fitur baru, seperti integrasi yang lebih baik dengan aplikasi berbasis Wayland.
+
+    Keberlanjutan:
+        Fedora tetap menjadi salah satu distribusi Linux paling populer dan terus berkembang berkat dukungan dari komunitas dan Red Hat. Setiap rilis baru tidak hanya menambah fitur baru tetapi juga memberikan pembaruan keamanan dan perbaikan bug yang penting.
